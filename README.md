@@ -11,8 +11,4 @@
 ## 10. Drying and Cooling of Sugar Crystals
 ## 11. Screening and Grading
 ## 12. Packaging and Storage
-## Les collaborateurs
-* **Hammoum Ouail*
-* **Dechicha Zhor*
-* **Guettai Dounia*
-* **Bentafat Ilyes Dhia*
+
