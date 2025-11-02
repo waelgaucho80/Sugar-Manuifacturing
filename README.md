@@ -1,2 +1,13 @@
-# Sugar-Manuifacturing
-Sugar is produced mainly from sugarcane or sugar beet. The plants are crushed to extract juice, which is then purified using lime and carbon dioxide. The clean juice is evaporated to form a thick syrup, then crystallized to separate sugar crystals from molasses. The crystals are centrifuged, dried, and refined to make white sugar.
+## Sugar Manufacturing
+## 1. Preparation of Raw Material for Sugar Fabrication
+## 2. Washing and Cleaning of Beets
+## 3. Beet Slicing (Cossette Preparation)
+## 4. Diffusion Process (Sugar Extraction)
+## 5. Juice Purification (Lime and Carbonation Treatment)
+## 6. Juice Filtration
+## 7. Evaporation (Concentration of Juice)
+## 8. Crystallization (Sugar Formation)
+## 9. Centrifugation (Separation of Crystals and Molasses)
+## 10. Drying and Cooling of Sugar Crystals
+## 11. Screening and Grading
+## 12. Packaging and Storage
